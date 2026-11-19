@@ -1,0 +1,12 @@
+{
+  "name": "monli-hermes-telegram-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Persian Telegram bot studio with Cloudflare provisioning for Hermes Agent",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
